@@ -1,4 +1,4 @@
-# ⚡ BFT-Selector: Algoritmo de Seleção para BFTs e Geradores de Indução
+# BFT-Selector: Algoritmo de Seleção para BFTs e Geradores de Indução
 
 > **Ferramenta computacional para seleção automatizada e otimizada de Bombas Funcionando como Turbinas (BFT) em Microcentrais Hidrelétricas.**
 
